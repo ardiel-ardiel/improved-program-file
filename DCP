@@ -1,0 +1,24 @@
+Distance Calculator Program
+Description
+
+This program converts a distance from kilometers to miles. It uses a conversion factor of 0.621371 miles for every kilometer. The program also allows the user to convert another distance.
+
+How to Run the Program
+Open the distance_calculator.py file.
+Run the program using Python.
+Enter the distance in kilometers.
+Choose yes or no when asked if you want to convert another distance.
+Input Needed
+
+The program needs:
+
+A distance in kilometers
+A yes or no response to continue
+Sample Output
+Enter distance in kilometers: 10
+Distance in miles: 6.21371
+Do you want to convert another distance? (yes/no): no
+Program ended.
+Author
+
+Ardiel Justin Espiritu
